@@ -4,4 +4,4 @@ Natural language processing (NLP) is a field of computer science that studies ho
 
 ## Preparation for project
 
-[Python skils](./Preparation python skills)
+[Python skils](./Preparation%20python%20skills)
